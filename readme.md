@@ -1,5 +1,8 @@
 ## ⏱ Clockify Auto Tracker Extension
+
 Your time is your most valuable asset track it like it matters.
+
+### Overview
 
 This Chrome extension is the ultimate productivity companion. It automatically starts and stops your Clockify timer based on the websites you're actively browsing. Whether you're working, learning, researching, or procrastinating — this extension keeps you accountable and your time log bulletproof.
 
